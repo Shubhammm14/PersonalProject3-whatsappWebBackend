@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/whatsappWeb.iml" filepath="$PROJECT_DIR$/whatsappWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PersonalProject3-whatsappWebBackend/whatsappWebBackend/.idea/whatsappserver.iml" filepath="$PROJECT_DIR$/PersonalProject3-whatsappWebBackend/whatsappWebBackend/.idea/whatsappserver.iml" />
+    </modules>
+  </component>
+</project>
